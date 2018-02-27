@@ -1,5 +1,7 @@
 # Duly
 
+DULY is a cutting edge cryptocurrency, with many features not available in most other cryptocurrencies.
+
 Development process
 
 Developers work in their own trees, then submit pull requests when they think their feature or bug fix is ready.
@@ -24,10 +26,14 @@ Premine: 420,000,000
 
 Block reward: 5 DULY
 
+Block time: 2 minutes
+
+Dificulty: Retargeting every block
+
 Total coins: 700,000,000
 
 Yearly interest: 5%
 
-P2P Port: 36550
+P2P Port: 37550
 
-RPC Port: 36552
+RPC Port: 37552
